@@ -32,8 +32,10 @@ The proposed solution involves three stages -<br>
 
 ---
 ## License Plate Recognition Results Using Tesseract
-![Screenshot](tesseract_no_preprocess.png) </br></br>
-![Screenshot](tesseract_preprocess.png) </br></br>
+![Screenshot](tesseract_no_preprocess.png)
+Fig :- License Plate Recognition Results without image pre-processing( Second line from the bottom)</br></br>
+![Screenshot](tesseract_preprocess.png) 
+Fig :- License Plate Recognition Results with image pre-processing( Seventh line from the top)</br></br>
 
 ---
 ## Character Segmentation Results Using OpenCV
@@ -43,4 +45,5 @@ The proposed solution involves three stages -<br>
 ## Model Deployment on Raspberry Pi 3B
 ![Screenshot](yolo_deploy_startRPi.jpg) </br></br>
 ![Screenshot](rpi_yolov4_deployment.jpg) </br></br>
-![Screenshot](yolov4_prediction_rpi.png) </br></br>
+![Screenshot](yolov4_prediction_rpi.png) 
+Fig - The YOLO v4 prediction is by default stored in predictions.jpg within the "darknet-master" folder</br></br>
