@@ -40,3 +40,4 @@ The proposed solution involves three stages -<br>
 ![Screenshot](yolo_deploy_startRPi.jpg) </br></br>
 ![Screenshot](rpi_yolov4_deployment.jpg) </br></br>
 ![Screenshot](yolov4_prediction_rpi.png) </br></br>
+Fig - The above figure shows License Plate Detection stored in predictions.jpg of the "darknet-master" folder
