@@ -34,8 +34,8 @@ The proposed solution involves three stages -<br>
 ## License Plate Recognition Results Using Tesseract
 ![Screenshot](tesseract_no_preprocess.png)
 Fig :- License Plate Recognition Results without image pre-processing( Second line from the bottom)</br></br>
-![Screenshot](tesseract_preprocess.png) 
-Fig :- License Plate Recognition Results with image pre-processing( Seventh line from the top)</br></br>
+![Screenshot](preprocess_out.png) 
+Fig :- License Plate Recognition Results with image pre-processing( First line from the bottom)</br></br>
 
 ---
 ## Character Segmentation Results Using OpenCV
