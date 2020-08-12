@@ -28,4 +28,7 @@ The proposed solution involves three stages -<br>
 
 ![Screenshot](predictions2.jpg) </br></br>
 
-![Screenshot](predictions_1.jpg) </br></br>
+![Screenshot](predictions1.jpg) </br></br>
+
+## Character Segmentation Results Using OpenCV
+![Screenshot](character_segmentation.png) </br></br>
