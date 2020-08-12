@@ -24,3 +24,8 @@ The proposed solution involves three stages -<br>
 
 ---
 ## License Plate Detection Results Using YOLO v4
+![Screenshot](predictions.jpg) </br></br>
+
+![Screenshot](predictions2.jpg) </br></br>
+
+![Screenshot](predictions_1.jpg) </br></br>
