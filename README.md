@@ -31,7 +31,11 @@ The proposed solution involves three stages -<br>
 ![Screenshot](predictions1.jpg) </br></br>
 
 ---
+## License Plate Recognition Results Using Tesseract
+![Screenshot](tesseract_no_preprocess.png) </br></br>
+![Screenshot](tesseract_preprocess.png) </br></br>
 
+---
 ## Character Segmentation Results Using OpenCV
 ![Screenshot](character_segmentation.png) </br></br>
 
@@ -40,4 +44,3 @@ The proposed solution involves three stages -<br>
 ![Screenshot](yolo_deploy_startRPi.jpg) </br></br>
 ![Screenshot](rpi_yolov4_deployment.jpg) </br></br>
 ![Screenshot](yolov4_prediction_rpi.png) </br></br>
-Fig - The above figure shows License Plate Detection stored in predictions.jpg of the "darknet-master" folder
