@@ -23,3 +23,4 @@ The proposed solution involves three stages -<br>
 3.License plate recognition - __Tesseract and MobileNet V2__ </br>
 
 ---
+## License Plate Detection Results Using YOLO v4
