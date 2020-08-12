@@ -42,6 +42,10 @@ Fig :- License Plate Recognition Results with image pre-processing( Seventh line
 ![Screenshot](character_segmentation.png) </br></br>
 
 ---
+# Character Recognition Results Using MobileNet v2
+![Screenshot](mobilenet_result.png) </br></br>
+
+---
 ## Model Deployment on Raspberry Pi 3B
 ![Screenshot](yolo_deploy_startRPi.jpg) </br></br>
 ![Screenshot](rpi_yolov4_deployment.jpg) </br></br>
