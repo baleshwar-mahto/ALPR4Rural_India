@@ -7,7 +7,7 @@ This project was done as a Summer Research Intern at the National Institute of T
 
 ---
 ## Problem Statement
-Metropolitan cities and urban areas with adequate infrastructure , it is easy to implement and deploy License plate detection and recognition systems with available CCTV cameras in the traffic signals and good network speed , but the same is not true in case of remote rural areas of India wherein there is no  such proper infrastructure and good network speed to deploy such systems . In such a scenario , there are more possibilities of traffic law violations in the rural areas which can lead to more road accidents and casualties . There is a need of such a system for rural setting with its own specific constraints which will help Indian roads more safe to use .
+Metropolitan cities and urban areas with adequate infrastructure , it is easy to implement and deploy License plate detection and recognition systems with available CCTV cameras in the traffic signals and good network speed , but the same is not true in case of remote rural areas of India wherein there is no  such proper infrastructure and good network speed to deploy such systems . In such a scenario , there are more possibilities of traffic law violations in the rural areas which can lead to more road accidents and casualties . There is a need of such a system for rural settings with its own specific constraints which will help Indian roads more safe to use .
 
 ---
 ## Solution Design
