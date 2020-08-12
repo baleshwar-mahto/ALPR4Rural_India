@@ -30,5 +30,13 @@ The proposed solution involves three stages -<br>
 
 ![Screenshot](predictions1.jpg) </br></br>
 
+---
+
 ## Character Segmentation Results Using OpenCV
 ![Screenshot](character_segmentation.png) </br></br>
+
+---
+## Model Deployment on Raspberry Pi 3B
+![Screenshot](yolo_deploy_startRPi.jpg) </br></br>
+![Screenshot](rpi_yolov4_deployment.jpg) </br></br>
+![Screenshot](yolov4_prediction_rpi.png) </br></br>
