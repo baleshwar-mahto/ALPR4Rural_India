@@ -11,6 +11,9 @@ The idea here is to design and develop an “Automatic License Plate Detection a
 __Design Constraints__- </br>
 1.It should be based on Open source softwares . </br>
 2.It must work offline . </br>
-3.It should be deployable in a Smartphone or / and Raspberry Pi / similar single board computers. </br>
-4.It should not make use of any Cloud services like Google Cloud Platform , Microsoft Azure ,etc.</br>
- 
+3.It should be deployable in a Raspberry Pi / and Smartphone </br>
+4.It should not make use of any Cloud services like Google Cloud Platform , Microsoft Azure ,etc.</br></br>
+The proposed solution involves three stages -<br>
+1.License plate detection ( from an image of a vehicle ) - __YOLO V4 algorithm__ </br>
+2.Character segmentation - __OpenCV library__ </br>
+3.License plate recognition - __Tesseract and MobileNet V2__ </br>
