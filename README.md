@@ -1,11 +1,15 @@
 # ALPR4Rural_India
 Automatic License Plate Detection and Recognition for Rural India
+
+---
 ## About
 This project was done as a Summer Research Intern at the National Institute of Technology (NIT ) Andhra Pradesh along with my fellow intern [Ritish Kumar Tiwari ](https://github.com/ritishtiwari) of the National Institute of Technology (NIT ) Raipur . Ritish worked on the License Plate detection part using YOLO V4 alogirithm and I worked on the Character Segmentation of License Plate Image Using OpenCV and License Plate Recognition part using Tesseract and MobileNet V2 .
 
+---
 ## Problem Statement
 Metropolitan cities and urban areas with adequate infrastructure , it is easy to implement and deploy License plate detection and recognition systems with available CCTV cameras in the traffic signals and good network speed , but the same is not true in case of remote rural areas of India wherein there is no  such proper infrastructure and good network speed to deploy such systems . In such a scenario , there are more possibilities of traffic law violations in the rural areas which can lead to more road accidents and casualties . There is a need of such a system for rural setting with its own specific constraints which will help Indian roads more safe to use .
 
+---
 ## Solution Design
 The idea here is to design and develop an “Automatic License Plate Detection and Recognition system ” for rural India which can work as a standalone system . The system should be deployable in a Smartphone or a single board computer like Raspberry Pi .</br></br>
 __Design Constraints__- </br>
@@ -17,3 +21,5 @@ The proposed solution involves three stages -<br>
 1.License plate detection ( from an image of a vehicle ) - __YOLO V4 algorithm__ </br>
 2.Character segmentation - __OpenCV library__ </br>
 3.License plate recognition - __Tesseract and MobileNet V2__ </br>
+
+---
