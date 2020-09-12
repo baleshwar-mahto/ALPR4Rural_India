@@ -1,7 +1,11 @@
 # ALPR4Rural_India
-Automatic License Plate Detection and Recognition for Rural India
+Automatic License Plate Detection and Recognition for Rural India </br></br>
 
 ---
+[![Watch the video](https://github.com/baleshwar-mahto/ALPR4Rural_India/blob/master/my_post.jpg)](https://youtu.be/BdmmdhfFwAs)
+
+---
+[Project Demo Video Link - Youtube ](https://youtu.be/BdmmdhfFwAs)
 ## About
 This project was done as a Summer Research Intern at the National Institute of Technology (NIT ) Andhra Pradesh along with my fellow intern [Ritish Kumar Tiwari ](https://github.com/ritishtiwari) of the National Institute of Technology (NIT ) Raipur , under the guidance of [Dr Sri Phani Krishna Karri](https://nitandhra.ac.in/dept/eee/20164) of the Department of Electrical Engineering , NIT Andhra Pradesh. Ritish worked on the License Plate detection part using YOLO V4 alogirithm and I worked on the Character Segmentation of License Plate Image Using OpenCV and License Plate Recognition part using Tesseract and MobileNet V2 .
 
